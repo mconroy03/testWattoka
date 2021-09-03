@@ -1,0 +1,14 @@
+this is a test file
+
+it this really a test file?
+
+
+this is a different line of text...
+
+Here is another line
+
+<<<<<<< HEAD
+Here is a conflict
+
+MESSIN WIT YOU SHIZ
+
